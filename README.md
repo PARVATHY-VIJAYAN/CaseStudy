@@ -1,4 +1,4 @@
-# CaseStudy
+# NLP CaseStudy
 Understanding and Fine-Tuning BERT for NLP Tasks
 
 This repository includes a detailed case study and Python code implementation that explore fine-tuning BERT (Bidirectional Encoder Representations from Transformers) for NLP tasks, such as text classification and named entity recognition.
